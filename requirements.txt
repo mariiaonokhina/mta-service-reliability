@@ -2,3 +2,5 @@ requests
 jupyter
 matplotlib
 plotly
+pandas
+numpy
