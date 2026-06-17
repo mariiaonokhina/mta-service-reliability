@@ -26,3 +26,4 @@ holiday_df["is_holiday"] = 1
 3. Create a virtual environment: `python -m venv .venv` and activate it: `source .venv/bin/activate` (for Mac).
 4. Install the requirements: `pip install -r requirements.txt`
 5. Download MTA data by running `python scripts/download_data.py`.
+6. Open and run `notebooks/01_inspection.ipynb`.
