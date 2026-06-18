@@ -4,20 +4,7 @@
 1. https://data.ny.gov/Transportation/MTA-Subway-Terminal-On-Time-Performance-Beginning-/f6rf-2a3t/about_data (Primary)
 2. https://data.ny.gov/Transportation/MTA-Subway-Delay-Causing-Incidents-Beginning-2020/g937-7k7c/about_data (Secondary)
 3. https://www.ncei.noaa.gov/cdo-web/datasets (Daily Summaries)
-4. U.S. Federal Holidays (Created programmatically):
-```
-from pandas.tseries.holiday import USFederalHolidayCalendar
-
-cal = USFederalHolidayCalendar()
-
-holidays = cal.holidays(
-    start="2020-01-01",
-    end="2026-12-31"
-)
-
-holiday_df = holidays.to_frame(index=False, name="date")
-holiday_df["is_holiday"] = 1
-```
+4. U.S. Federal Holidays (Created programmatically)
 
 ---
 ## How to Run
