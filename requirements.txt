@@ -3,6 +3,6 @@ jupyter
 matplotlib
 plotly
 pandas
-numpy
+pip install numpy==1.24.4
 statsmodels
-meteostat
+meteostat==2.1.4
