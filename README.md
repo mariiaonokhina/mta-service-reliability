@@ -1,10 +1,14 @@
 # MTA Service Reliability 
 
 ## Datasets
-1. https://data.ny.gov/Transportation/MTA-Subway-Terminal-On-Time-Performance-Beginning-/f6rf-2a3t/about_data (Primary)
-2. https://data.ny.gov/Transportation/MTA-Subway-Delay-Causing-Incidents-Beginning-2020/g937-7k7c/about_data (Secondary)
-3. https://www.ncei.noaa.gov/cdo-web/datasets (Daily Summaries)
-4. U.S. Federal Holidays (Created programmatically)
+**Primary:**
+1. https://data.ny.gov/Transportation/MTA-Subway-Terminal-On-Time-Performance-Beginning-/f6rf-2a3t/about_data
+2. https://data.ny.gov/Transportation/MTA-Subway-Delay-Causing-Incidents-Beginning-2020/g937-7k7c/about_data
+3. https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-2025/5wq4-mkjj/about_data
+
+**Additional:**
+* https://www.ncei.noaa.gov/cdo-web/datasets (Daily Summaries)
+* U.S. Federal Holidays (Created programmatically)
 
 ---
 ## How to Run
