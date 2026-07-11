@@ -3,6 +3,8 @@ jupyter
 matplotlib
 plotly
 pandas
-pip install numpy==1.24.4
+numpy==1.24.4
 statsmodels
 meteostat==2.1.4
+calplot
+seaborn
