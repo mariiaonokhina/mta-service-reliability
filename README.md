@@ -19,3 +19,4 @@
 5. Download MTA data by running `python scripts/download_data.py`.
 6. Open and run `notebooks/01_inspection.ipynb`.
 7. Open and run `notebooks/02_weather_correlation_analysis.ipynb`.
+7. Open and run `notebooks/03_daily_ridership_analysis.ipynb`.
